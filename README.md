@@ -9,6 +9,6 @@ This project rebuilt a competitive churn analysis entirely inside a relational d
 - Deliberately kept the external table out of the database's foreign-key relationships because its records could not be verified against internal keys, and documented that decision as a known limitation
 - Explained how existing foreign-key constraints enforced referential integrity across the contract, payment, job, and location tables
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/churn-data-integration-sql-tableau/blob/main/churn-data-integration-sql-tableau/churn-analysis-documentation.pdf)
 | 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/9utEBRqidYk)
